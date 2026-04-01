@@ -1,0 +1,8 @@
+*.keras
+*.h5
+*.hdf5
+*.jpg
+*.png
+*.jpeg
+!.DFGDF.jpg
+!.training_plot.png
